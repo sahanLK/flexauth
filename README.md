@@ -1,1 +1,1 @@
-## A Flexible OAuth Server for Any Web Framework
+## A Flexible OAuth Server for any Web Framework
